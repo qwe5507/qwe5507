@@ -9,7 +9,6 @@
 
 ### Studying..
 <p>
-  <img src="https://img.shields.io/badge/Querydsl-59666C?style=for-the-badge&logo=Hibernate&logoColor=white"> 
   <img src="https://img.shields.io/badge/AWS%20S3-232F3E?style=for-the-badge&logo=Amazon%20AWS&logoColor=white"> 
   <img src="https://img.shields.io/badge/AWS%20RDB-232F3E?style=for-the-badge&logo=Amazon%20AWS&logoColor=white"> 
 </p>
@@ -19,7 +18,6 @@
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=Spring%20Boot&logoColor=white">
   <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=Spring%20Security&logoColor=white"> 
   <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white"> 
-  <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=Thymeleaf&logoColor=white">
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
