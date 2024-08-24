@@ -9,8 +9,7 @@
 
 ### Studying..
 <p>
-<!--   <img src="https://img.shields.io/badge/AWS%20S3-232F3E?style=for-the-badge&logo=Amazon%20AWS&logoColor=white"> 
-  <img src="https://img.shields.io/badge/AWS%20RDB-232F3E?style=for-the-badge&logo=Amazon%20AWS&logoColor=white">  -->
+
 </p>
 
 ### Backend
@@ -38,6 +37,8 @@
   <img src="https://img.shields.io/badge/AWS%20EC2-232F3E?style=for-the-badge&logo=Amazon%20AWS&logoColor=white"> 
   <img src="https://img.shields.io/badge/CentOS-262577?style=for-the-badge&logo=CentOS%20AWS&logoColor=white"> 
   <img src="https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=for-the-badge&logo=Apache%20Tomcat&logoColor=white">
+    <img src="https://img.shields.io/badge/AWS%20S3-232F3E?style=for-the-badge&logo=Amazon%20AWS&logoColor=white"> 
+  <img src="https://img.shields.io/badge/AWS%20RDB-232F3E?style=for-the-badge&logo=Amazon%20AWS&logoColor=white">
 </p>
 
 ### Tools
