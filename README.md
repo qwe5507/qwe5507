@@ -9,8 +9,8 @@
 
 ### Studying..
 <p>
-  <img src="https://img.shields.io/badge/AWS%20S3-232F3E?style=for-the-badge&logo=Amazon%20AWS&logoColor=white"> 
-  <img src="https://img.shields.io/badge/AWS%20RDB-232F3E?style=for-the-badge&logo=Amazon%20AWS&logoColor=white"> 
+<!--   <img src="https://img.shields.io/badge/AWS%20S3-232F3E?style=for-the-badge&logo=Amazon%20AWS&logoColor=white"> 
+  <img src="https://img.shields.io/badge/AWS%20RDB-232F3E?style=for-the-badge&logo=Amazon%20AWS&logoColor=white">  -->
 </p>
 
 ### Backend
